@@ -1,13 +1,13 @@
 # CraftAPIClient
 
-## Description
+## Descriptions
 
 This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
 communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests.
 
 ## Features
 
-* Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
+* Minimal requirementsare  to integrate it into Sponge, BungeeCord and Spigot
 * Compatibility with Minecraft 1.7.10+
 * Thread-Safe
 * Usage of modern Java 8 features
@@ -57,7 +57,7 @@ requests if possible.
         <dependency>
             <groupId>com.github.games647</groupId>
             <artifactId>craftapi</artifactId>
-            <version>VERSION</version>
+            <version>VERSION12</version>
         </dependency>
     </dependencies>
 ```
