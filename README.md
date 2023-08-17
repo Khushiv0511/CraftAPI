@@ -62,7 +62,7 @@ requests if possible.
     </dependencies>
 ```
 
-## Credits
+## Credits are not
 
 * [Fast-UUID](https://github.com/jchambers/fast-uuid) - MIT license
   * Remember to include its license file
